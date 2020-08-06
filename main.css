@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+    padding: 25px;
+}
+section{
+    padding: 15px;
+    border: 3px solid azure;
+    border-radius: 6px;
+    margin: 10px;
+}
+
+section ul li{
+    list-style-type: none;
+}
+
+.head-main{
+    margin-left: 25px;
+}
+
+.sally-pic{
+    width: 100px;
+}
